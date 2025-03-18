@@ -3,4 +3,4 @@ Netflix has redefined how we consume entertainment, delivering movies and TV sho
 
 
 
-![Image Description](images/1.png)
+![Image Description](https://github.com/akmadan/akshit_madan_blogs/blob/main/articles/AID-1/images/1.png)
