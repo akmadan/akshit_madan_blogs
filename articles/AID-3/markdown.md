@@ -1,5 +1,4 @@
-[Banner](https://raw.githubusercontent.com/akmadan/akshit_madan_blogs/refs/heads/main/articles/AID-3/images/banner.png)
-
+<img src="https://raw.githubusercontent.com/akmadan/akshit_madan_blogs/refs/heads/main/articles/AID-3/images/banner.png" alt="MCP Banner" style="border-radius: 10px;" />
 
 # Unlocking AI's Potential: A Deep Dive into the Model Context Protocol (MCP)
 
