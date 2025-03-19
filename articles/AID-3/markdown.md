@@ -1,4 +1,4 @@
-[]()
+[Banner](https://raw.githubusercontent.com/akmadan/akshit_madan_blogs/refs/heads/main/articles/AID-3/images/banner.png)
 
 
 # Unlocking AI's Potential: A Deep Dive into the Model Context Protocol (MCP)
