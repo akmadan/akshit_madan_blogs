@@ -1,6 +1,6 @@
-# Simplifying AI Interactions: A Deep Dive into the Model Context Protocol (MCP)
 
-Hey there, tech enthusiasts! 👋 Akshit here, and today we're diving into the Model Context Protocol (MCP), a game-changer in how AI models interact with external data.  Think of it as giving your AI a superpower – seamless access to information from everywhere! 🚀
+<img src="https://raw.githubusercontent.com/akmadan/akshit_madan_blogs/refs/heads/main/articles/AID-3/images/banner.png" alt="MCP Banner" />
+
 
 ## Understanding the Model Context Protocol (MCP)
 
