@@ -12,69 +12,59 @@
 
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.8;
-            margin: 40px auto;
-            max-width: 900px;
-            padding: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        
-        h1, h2, h3 {
-            font-weight: 700;
-            margin-bottom: 16px;
-            color: #222;
+            font-family: sans-serif;
+            line-height: 1.6;
+            margin: 20px;
         }
 
-        h2 {
-            border-bottom: 2px solid #007BFF;
-            padding-bottom: 5px;
+        h1, h2, h3 {
+            font-weight: 600;
+            margin-bottom: 12px;
         }
 
         p {
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
 
         ul {
-            margin-bottom: 20px;
+            margin-bottom: 15px;
+            padding-left: 20px;
         }
 
         img {
             display: block;
-            max-width: 100%;
+            max-width: 70%;
             height: auto;
             margin: 20px auto;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
         }
 
         code {
             background-color: #f0f0f0;
-            padding: 4px 6px;
-            border-radius: 5px;
+            padding: 3px 5px;
+            border-radius: 4px;
         }
 
         pre {
             background-color: #f0f0f0;
-            padding: 15px;
+            padding: 10px;
             overflow-x: auto;
-            border-radius: 5px;
+            border-radius: 4px;
+            margin-bottom: 15px;
         }
 
         .mermaid {
             width: 100%;
-            background-color: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
             margin-bottom: 20px;
         }
 
         @media (max-width: 768px) {
             body {
                 font-size: 16px;
-                padding: 15px;
+            }
+            img {
+                max-width: 90%;
             }
         }
     </style>
@@ -86,13 +76,12 @@
 
     <img src="https://raw.githubusercontent.com/akmadan/akshit_madan_blogs/refs/heads/main/articles/AID-3/images/banner.png" 
          alt="MCP Banner"
-         style="max-width: 80%; height: auto; display: block; margin: 20px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+         style="max-width: 60%; height: auto; display: block; margin: 20px auto; border-radius: 8px;">
 
-    <p>Hey there, tech enthusiasts! 👋 Akshit here, and today we're diving into the Model Context Protocol (MCP), a game-changer in how AI models interact with external data. Think of it as giving your AI a superpower – seamless access to information from everywhere! 🚀</p>
+    <p>Hey there, tech enthusiasts! 👋 Akshit here, and today we're diving into the Model Context Protocol (MCP)...</p>
 
     <h2>Understanding the Model Context Protocol (MCP)</h2>
-
-    <p>What exactly *is* MCP? In short, it's an open standard designed to simplify how AI models access and utilize data from various sources...</p>
+    <p>What exactly *is* MCP? In short, it's an open standard...</p>
 
     <h3>Key Goals:</h3>
     <ul>
@@ -107,11 +96,7 @@
     <p>Before MCP, AI to data-source connections were complex...</p>
 
     <h3>MCP Architecture: A Client-Server Approach</h3>
-    <p>MCP employs a client-server architecture. Imagine it as ordering food online:</p>
-    <ul>
-        <li><strong>Client (AI Application):</strong> The AI assistant placing the order.</li>
-        <li><strong>Server (MCP Server):</strong> The service fulfilling the order.</li>
-    </ul>
+    <p>MCP employs a client-server architecture...</p>
 
     <div class="mermaid">
         graph LR
@@ -137,9 +122,6 @@
         <li><strong>Example 1: CRM Integration:</strong> AI assistant retrieves customer details via MCP.</li>
         <li><strong>Example 2: Knowledge Base Access:</strong> AI fetches structured information from a knowledge base.</li>
     </ul>
-
-    <h3>Developer Perspective:</h3>
-    <p>Developers can create MCP clients or servers to enable seamless integration...</p>
 
     <h2>The Future of MCP and its Impact on AI</h2>
     <p>MCP is a community-driven project, ensuring continuous improvements...</p>
